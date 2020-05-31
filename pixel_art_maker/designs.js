@@ -1,5 +1,3 @@
-"use strict";
-
 const $tableElement = $('#pixelCanvas');
 const $inputh = $('#inputh');  // Storing grid h value
 const $inputw = $('#inputw');  // Storing grid w value
